@@ -10,11 +10,11 @@ Projeto realiza teste de dispositivo em Python para monitorar temperatura e umid
 
 ---  
 ## ©️ Licença  
-xx   
+Distribuído sob a licença MIT. Veja `LICENSE`para informações adicionais.  
 
 ---   
 ## 📧Contato  
-Autora: Carla Edila aSilveira
+Autora: Carla Edila Silveira  
 E-mail: rosa.carla@pucpr.edu.br  
 
 ---  
