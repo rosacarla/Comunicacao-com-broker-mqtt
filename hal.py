@@ -17,3 +17,6 @@ def aquecedor(estado: str):
         print("Aquecedor LIGADO")
     else:
         print("Aquecedor DESLIGADO")
+
+
+
